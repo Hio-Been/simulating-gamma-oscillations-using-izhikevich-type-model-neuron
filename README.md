@@ -1,7 +1,7 @@
 # simple_Izh_PING_gamma_model
 
-Matlab scripts for simulation of neuronal (network) activities.
-Based on (1) Izhikevich model type neuron, and (2) PING-network structure implemented by Lowet et al. (2015).
+Matlab scripts for simulation of neuronal membrane potentials and local field potentials.
+Built on (1) Izhikevich model type neuron, and (2) PING-network structure implemented by Lowet et al. (2015).
 
 Original source:
 
