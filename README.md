@@ -1,4 +1,4 @@
-# simple_Izh_PING_gamma_model
+# simulating-gamma-oscillations-using-izhikevich-type-model-neuron
 
 Matlab scripts for simulation of neuronal membrane potentials and local field potentials.
 Built on (1) Izhikevich model type neuron, and (2) PING-network structure implemented by Lowet et al. (2015).
