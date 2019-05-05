@@ -1,0 +1,1 @@
+# simple_Izh_PING_gamma_model
